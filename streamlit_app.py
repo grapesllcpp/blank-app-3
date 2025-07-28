@@ -1,3 +1,7 @@
+import nltk
+import streamlit as st
+
+st.success("NLTK successfully imported!")
 import streamlit as st
 import pandas as pd
 import nltk
